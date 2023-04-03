@@ -7,3 +7,6 @@ Starting from the repository's folder:
 1. cd princeton
 2. npm i
 3. npm run dev
+
+or online
+https://swimworkoutgenerator.netlify.app/
